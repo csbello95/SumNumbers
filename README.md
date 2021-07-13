@@ -1,2 +1,2 @@
 # SumNumbers
-Dinamic creation of a HTML table with JavaScript
+This application add three numbers supplied by the user.
